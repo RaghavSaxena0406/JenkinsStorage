@@ -1,6 +1,6 @@
 {
-  "clientId": "f4120474-fc0a-4d42-afe5-3ab4342d6d8c",
-  "clientSecret": "Gvc8Q~SbqIooRgntMlWqkVG8BKWDkylm_S3rNaQD",
+  "clientId": "",
+  "clientSecret": "",
   "subscriptionId": "",
   "tenantId": "",
   "activeDirectoryEndpointUrl": "https://login.microsoftonline.com",
